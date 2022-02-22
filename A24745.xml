@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the arbitrary exactions, taxations, impositions, excises, contributions, with other assessements, which have been leavied in these late warres out of the associate counties viz., Essex, Suffolke, Norfolke, Kent, Sussex, Surrey, Middlesex, Hertfordshire ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24745</idno>
+            <idno type="STC">Wing A235</idno>
+            <idno type="STC">ESTC R12238</idno>
+            <idno type="EEBO-CITATION">12931309</idno>
+            <idno type="OCLC">ocm 12931309</idno>
+            <idno type="VID">95678</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24745)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95678)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the arbitrary exactions, taxations, impositions, excises, contributions, with other assessements, which have been leavied in these late warres out of the associate counties viz., Essex, Suffolke, Norfolke, Kent, Sussex, Surrey, Middlesex, Hertfordshire ...</title>
+               </titleStmt>
+               <extent>[3], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Finance.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Confiscations and contributions.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95678:1"/>
+            <!-- PDF PAGE 25 -->
+            <pb facs="tcp:95678:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <p>
+               <hi>AN</hi> ACCOUNT OF THE ARBITRARY, EXACTI<g ref="char:EOLhyphen"/>ONS, TAXATIONS, IMPO<g ref="char:EOLhyphen"/>ſitions, Exciſes, Contributions, with other Aſſeſſements, which have been leavied in theſe late Warres, out of the Aſſociate Counties; <hi>viz.</hi>
+            </p>
+            <list>
+               <item>Eſſex</item>
+               <item>Suffolke</item>
+               <item>Norfolke</item>
+               <item>Kent</item>
+               <item>Suſſex</item>
+               <item>Surrey</item>
+               <item>Middleſex</item>
+               <item>Hertfordſhire.</item>
+            </list>
+            <p>Preſented to the view of all thoſe who wiſh well to their Countrey.</p>
+            <p>
+               <hi>Printed in the Yeare,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:95678:2"/>
+            <!-- PDF PAGE 26 -->
+            <pb n="1" facs="tcp:95678:2"/>
+            <!-- PDF PAGE 26 -->
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>I Preſent thee here with <hi>pars de toto,</hi> and will indeed ſerve <hi>pro toto,</hi> to a judicious man to Calculate by. I know not thy tem<g ref="char:EOLhyphen"/>per, therefore cannot tell how thou wilt accept of this little great Accompt caſt up by me, if it goes againſt thy ſtomack I ſhall know thee what thou art (for an honeſt man will embrace truth, eſpecially when it diſcovers ſo much falſehood and injuſtice) to which end I tooke the paines, not caring how it diſgeſts with thee, knowing the fault to be in thy corrupted ſtomack, not in the meat, for I have herein uſed much modeſtie and more truth, uſing the greater paines to bring it as neere truth as poſſible (I am cer<g ref="char:EOLhyphen"/>taine I have not gone beyond it.)</p>
+            <p>Neither would I have thee altogether ruminate upon the ſums onely, but reflect a little backe to the Cauſe and Cauſers; The cauſe our ſinnes, the cauſers our ſelves; For who is there in the whole world hath had ſuch ſhowers of bleſſings poured on them? Inſomuch that our Manna was loathed by us, our godly gap-ſtop<g ref="char:EOLhyphen"/>ping Preachers rejected with their Doctrine, and willingly enter<g ref="char:EOLhyphen"/>tained and hearkned to Factious Levites, thereby becomming a Seditious people and a bewitcht generation of Vipers, wholly gi<g ref="char:EOLhyphen"/>ven to Warre, Sedition, Strife, Hereſies, Rebellions, and what not? And for the upholding of it, remember how ready wee offer'd, not onely our Eſtates, O but our Lives! yea, expoſing (without Gods great mercy) even our Soules in it to the mercy of the mercileſſe devourer of them. And now what may wee expect leſſe then lately hath beene, and now is, beſides what hereafter may be, if Gods mercy doe not timely prevent it?</p>
+            <p>And that wee may a little diſcerne by a little, what and how much wee have juſtly drawn on us, behold and ſee our Oppreſſion in this one angle (and but a ſmall one) of this Looking-glaſſe (not ſo much to diſcover our owne madneſſe, as the illegall procee<g ref="char:EOLhyphen"/>dings of the Oppreſſors.)</p>
+            <p>And now to begin with our owne County (for I would not in the leaſt meaſure be thought partiall though I foule my neſt) and the other ſeven Counties ſhall be rated proportionably to this.</p>
+            <gap reason="missing" extent="2 pages">
+               <desc>〈2 pages missing〉</desc>
+            </gap>
+            <p>
+               <pb n="4" facs="tcp:95678:3"/>
+               <!-- PDF PAGE 27 -->
+had not ſetled in our climate which now wee ſee is and ready to o<g ref="char:EOLhyphen"/>verwhelme our whole Kingdome. So as we ſee the Electors aſwell as the elected are in fault, neither ignorant yet both wanting in the executing of their charge and duty.</p>
+            <p>The Kingdome ſtands in need of Parliaments, as well for the moderating of too ſevere Lawes, and the ſtrengthning of thoſe that have not power enough, as redreſſing grievances and making new Lawes, and yet what infinite Petitions from the people to the Par<g ref="char:EOLhyphen"/>liament lyes in obſurity by them, as well for particular as gene<g ref="char:EOLhyphen"/>rall wrongs, moſt occaſioned by themſelves, and yet not any re<g ref="char:EOLhyphen"/>dreſſed, and why, becauſe lawfully they can aſwell doe the one as the other, both illegall, (there Orders not being Acts, as ap<g ref="char:EOLhyphen"/>peares by their requeſting it might be ſo)</p>
+            <p>As for thoſe that concerne themſelves their leiſure (or rather their charity cannot permit their redreſſing of them. Could this land (nay the world) parrallell this our gracious Soveraigne for mercy and goodneſſe in being as ready and willing to redreſſe as the people to complaine, yea, preventing as much as in His Majeſty lay) the occaſions of all future complaints as plainly appeares by the Acts Hee hath paſſed in this preſent Parliament, ſharing His Crowne, Honour, and Prerogatives with his people, And behold notwithſtanding in the poſſeſsing of this inch ſo freely given, how they have neer gained the whole ell by uſurpation; how ſtiffely they ſtand to maintaine the leaſt Priviledge of their owne (which hath been graciouſly beſtowed on them by the King, and by them ac<g ref="char:EOLhyphen"/>knowledged by a remuneration of a lawfull generall Tax, as all precedent Parliaments can witneſſe) and how little regard they His Majeſties Rights being ſo farre from remunerating as they ſtrive as much as in them lies, to have the remainder.</p>
+            <p>Acts of grace from his Majeſty firſt enacted are ſo lawfull and binding till repealed, and the King muſt repeale as well as enact, otherwiſe it remaines a ſtatute-Law, then followes the act of his ſubjects remuneration, and then the ſoveraignes free pardon.</p>
+            <p>But here I muſt needs take notice of one thing (and I thinke worthy the hinting) that I have obſerved in former Parliaments; they have been ſo honourable that in theſe acts of pardon they ne<g ref="char:EOLhyphen"/>ver moved their Soveraigne to exempt Murthers and Treaſons, I be<g ref="char:EOLhyphen"/>leeve this will have both incerted, or as the Judges uſe to ſay after ther ſentence paſt on criminall offenders, Lord have mercy upon thee (which will ſtand a brand on both houſes for perpetuity) from
+<gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:95678:3"/>
+               <!-- PDF PAGE 27 -->
+for Parliaments ſhould proceed nothing but Piety and Juſtice, o<g ref="char:EOLhyphen"/>therwiſe why make wee our appeale to them, they ought to crave grace and favour from His Majeſtie to the people (of whom they are the repreſentative body) of both which we have from him re<g ref="char:EOLhyphen"/>ceaved ſufficiently, were we not wholly poſſeſt with the ſpirit of madneſſe and folly, we very well hereby ſee that the diminiſhing of the Crowns, power is augmenting of ſubjects bondage, we may then ſay with the woman of <hi>Samariah</hi> help O King, and have as comfortleſſe a reply, for what redreſſe or remedy can he give that is wholly diveſted of the power to give it.</p>
+            <p>The Writs (by which all Members are choſen and ſummoned) expreſſe that it is to adviſe and Councell with the King, and not to do or act (which by God neither the Lands Law can they) any thing without him.</p>
+            <p>His Majeſty cannot make a ſuperintendent power, none, nor all more powerfull then himſelfe,</p>
+            <p>If there be any make themſelves ſo, it is a ſurrepted, not a dele<g ref="char:EOLhyphen"/>gated power. The Lawes declare the Title ſuch deſerve, and the puniſhment they ought to have; Ambition, Pride, and Covetouſ<g ref="char:EOLhyphen"/>neſſe hath but farthered a bloody Faction, Theft a Civill Rebel<g ref="char:EOLhyphen"/>lion, In which I thinke, from the higheſt to the meaneſt Family in the Kingdome not one of them hath eſcaped from the loſſe of a Fa<g ref="char:EOLhyphen"/>ther, a Son, a Brother, a Kinſman, or a deare friend, or Husband; which had not hapened, had we taken Gods Law, and the Law of our Land for our Guide; and now we do not bluſh to ſay (though with impious impudence enough) that it is for the maintenance of our eſtabliſhed Religion, and yet we ſee all ſo byaſed that few or none know of what Religion they are of.</p>
+            <p>We have all ſeen the true Proteſtant Religion which hath been ſealed with the bloud of ſo many Martyrs, maintained by truly Or<g ref="char:EOLhyphen"/>thodoxe and moſt Learned Divines, and eſtabliſhed by the whole<g ref="char:EOLhyphen"/>ſome Laws of our Land, Mauger the malice and rage of the Church of <hi>Rome,</hi> and all other Schiſmatickes and Heretickes, now moſt impiouſly ſuppreſt.</p>
+            <p>And now behold the juſt heavy hand of God on us, never bol<g ref="char:EOLhyphen"/>der Treaſons, publique Murthers, open Sacrilege, Common Theft, and all Impiety raigning and ruling without controle, as if the way to heaven in all things were to diſobey the devill and our own luſts in nothing. The Iſraelites could plead want of a King when every man did as it ſeemed good in his own eyes, we cannot plead want</p>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
